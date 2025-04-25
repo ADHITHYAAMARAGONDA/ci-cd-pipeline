@@ -3,3 +3,8 @@ opencv-python
 numpy
 mysql-connector-python
 gunicorn
+flask
+opencv-python
+numpy
+mysql-connector-python
+gunicorn
